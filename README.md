@@ -114,33 +114,6 @@ Exploring the integration of security into software development workflows, along
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=sv-yashwanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="90%" alt="GitHub Statistics"/>
-
-<br/><br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sv-yashwanth&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="90%" alt="Top Programming Languages"/>
-
-</div>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sv-yashwanth&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
----
-
----
 
 
 ---
