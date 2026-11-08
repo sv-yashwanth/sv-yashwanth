@@ -142,15 +142,6 @@ Exploring the integration of security into software development workflows, along
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sv-yashwanth/sv-yashwanth/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 ---
 
