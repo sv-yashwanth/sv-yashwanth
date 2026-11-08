@@ -1,5 +1,4 @@
-# Seshagiri-Venkata-Yashwanth
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:161B33,100:00C9A7&height=200&section=header&text=S%20V%20YASHWANTH&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20%7C%20Cybersecurity&descAlignY=58&descSize=17" width="100%" alt="Profile Header"/>
 
@@ -117,11 +116,21 @@ Exploring the integration of security into software development workflows, along
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sv-yashwanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="90%" alt="GitHub Statistics"/>
+<img src="./profile/stats.svg" width="90%" alt="GitHub Statistics"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sv-yashwanth&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Contribution Streak"/>
+<img src="./profile/top-langs.svg" width="90%" alt="Top Programming Languages"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img src="./profile/streak.svg" width="90%" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -131,7 +140,7 @@ Exploring the integration of security into software development workflows, along
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sv-yashwanth&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sv-yashwanth&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
