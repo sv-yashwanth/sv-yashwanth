@@ -100,21 +100,6 @@ Exploring the integration of security into software development workflows, along
 
 ---
 
-## 🧩 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/SVYashwanth/">
-  <img src="https://img.shields.io/badge/LeetCode-SVYashwanth-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
-</a>
-
-</div>
-
----
-
----
-
-
 
 ---
 
